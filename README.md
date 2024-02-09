@@ -1,4 +1,4 @@
-`#RRGGBB`	`#0969DA`
+`#0969DA`
 
 Site postado
 https://transfd.netlify.app/
