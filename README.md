@@ -3,6 +3,8 @@ https://transfd.netlify.app/
 
 # Conversor de Celsius para Fahrenheit
 
+# Projeto feito para uso educacional
+
 ## Visão Geral
 Este projeto é um simples script em Javascript que converte temperaturas de Celsius para Fahrenheit.
 
