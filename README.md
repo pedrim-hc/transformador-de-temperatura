@@ -1,5 +1,3 @@
-`#0969DA`
-
 Site postado
 https://transfd.netlify.app/
 
